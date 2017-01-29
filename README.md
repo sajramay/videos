@@ -46,6 +46,7 @@ Some interesting videos and presentations in no particular order.
 * [Principles of MicroServices - Sam Newman : 56m13s](https://www.youtube.com/watch?v=PFQnNFe27kU)
 * [Six Principles for Building Fault Tolerant MicroServices on the JVM : 50m26s](https://www.youtube.com/watch?v=dKWNZnuZhd0)
 * [Algorithms I - PlayList](https://www.youtube.com/watch?v=YIFWCpquoS8&list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q)
+* [Byrne Tube - PlayList](http://www.byrnetube.com/)
 
 ## InfoQ
 * [Developing MicroServices with Aggregates - Chris Richardson : 1h09m37s](https://www.infoq.com/presentations/aggregates-modular-microservices)
@@ -53,3 +54,10 @@ Some interesting videos and presentations in no particular order.
 ## Functional Programming
 * [Introduction to Haskell : 1h16m47s](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * [Functional Programming Design Patterns : 1h05m43s](https://www.youtube.com/watch?v=E8I19uA-wGY)
+* [Functional Principles in React : 27m57s](https://www.youtube.com/watch?v=1uRC3hmKQnM)
+* [Functional Programming is Terrible : 34m31s](https://www.youtube.com/watch?v=hzf3hTUKk8U)
+
+## Rich Hickey
+* [Simple Made Easy : 1h1m26s](https://www.infoq.com/presentations/Simple-Made-Easy)
+* [The Value of Values : 31m43s](https://www.youtube.com/watch?v=-6BsiVyC1kM)
+* [Are We There Yet : 1h10m04s](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
