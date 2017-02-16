@@ -19,7 +19,8 @@ Some interesting videos and presentations in no particular order.
 ## Performance
 
 * [Adventures with Concurrent Programming : 1h02m01s](https://www.youtube.com/watch?v=rKMTsJxYK30)
-* [Deep Dive Performance 3h00m29s](https://www.youtube.com/watch?v=1Uc3M9YK5Tg)
+* [Deep Dive Performance : 3h00m29s](https://www.youtube.com/watch?v=1Uc3M9YK5Tg)
+* [How Not to Measure Latency : 42m56s](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
 
 ## SkillsMatter
 
