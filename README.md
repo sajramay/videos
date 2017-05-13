@@ -38,23 +38,24 @@ Some interesting videos and presentations in no particular order.
 
 * [Life Beyond the Illusion of the Present : 1h12m20s](https://www.youtube.com/watch?v=4OWwZa92qWw)
 * [Without Resilience Nothing Else Matters : 59m30s](https://www.youtube.com/watch?v=NjPVJ7ZKLnY)
-* [MicroServices - Jonas Boner : 18m39s](https://www.youtube.com/watch?v=9gLrCPVrXo4)
 
 ## Other
 * [Introduction to NoSQL - Martin Fowler : 54m51s](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 * [The Java Memory Model - Google Talks : 57m22s](https://www.youtube.com/watch?v=1FX4zco0ziY)
 * [The Future of Service Based Architectures : 41m48s](https://www.youtube.com/watch?v=CT8l_sr1-1I)
-* [Principles of MicroServices - Sam Newman : 56m13s](https://www.youtube.com/watch?v=PFQnNFe27kU)
 * [Six Principles for Building Fault Tolerant MicroServices on the JVM : 50m26s](https://www.youtube.com/watch?v=dKWNZnuZhd0)
 * [Jepsen 7: Anna Concurrenina by Kyle Kingsbury : 53m06s](https://www.youtube.com/watch?v=eSaFVX4izsQ)
 * [Convergence of real-time analytics & data-driven applications : 27m08s](https://www.youtube.com/watch?v=i6RY9GFdlg4)
 * [Algorithms I - PlayList](https://www.youtube.com/watch?v=YIFWCpquoS8&list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q)
 * [Byrne Tube - PlayList](http://www.byrnetube.com/)
-* [Turning the database inside out with Apache Samza : 47m42s](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 
-## MicroServices
+## MicroServices, Event Sourcing and Streaming
 * [Developing MicroServices with Aggregates - Chris Richardson : 1h09m37s](https://www.infoq.com/presentations/aggregates-modular-microservices)
 * [Handling Eventual Consistency in JVM MicroServices with Event Sourcing : 1h07m13s](https://www.youtube.com/watch?v=53DVkaW5Fb0)
+* [Principles of MicroServices - Sam Newman : 56m13s](https://www.youtube.com/watch?v=PFQnNFe27kU)
+* [MicroServices - Jonas Boner : 18m39s](https://www.youtube.com/watch?v=9gLrCPVrXo4)
+* [The Many Meanings of Event-Driven Architecture - Martin Fowler : 50m05s](https://www.youtube.com/watch?v=STKCRSUsyP0)
+* [Turning the database inside out with Apache Samza : 47m42s](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 
 ## Functional Programming
 * [Introduction to Haskell : 1h16m47s](https://www.youtube.com/watch?v=02_H3LjqMr8)
