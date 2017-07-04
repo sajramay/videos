@@ -62,6 +62,7 @@ Some interesting videos and presentations in no particular order.
 * [Functional Programming Design Patterns : 1h05m43s](https://www.youtube.com/watch?v=E8I19uA-wGY)
 * [Functional Principles in React : 27m57s](https://www.youtube.com/watch?v=1uRC3hmKQnM)
 * [Functional Programming is Terrible : 34m31s](https://www.youtube.com/watch?v=hzf3hTUKk8U)
+* [Functional web applications with Spring and Kotlin : 56m24s](https://vimeo.com/221399691)
 
 ## Rich Hickey
 * [Simple Made Easy : 1h1m26s](https://www.infoq.com/presentations/Simple-Made-Easy)
