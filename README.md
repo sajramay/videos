@@ -11,10 +11,11 @@ Some interesting videos and presentations in no particular order.
 * [Java ClassLoaders: The good, the bad and the WTF! : 1h09m04s](https://www.youtube.com/watch?v=Bf1f5pZ4CmM)
 * [Flavors of Concurrency in Java : 1h18m25s](https://www.youtube.com/watch?v=UoKebad9UOk)
 
-## Go Lang
+## Languages
 
 * [Distributed Large Scale Systems in Go : 40m08s](https://www.youtube.com/watch?v=8IKxf98h65Y)
 * [Go Concurrency Patterns - Google IO 2012](https://www.youtube.com/watch?v=f6kdp27TYZs)
+* [Kotlin 102 - Beyond the basics : 46m23s](https://www.youtube.com/watch?v=a7QpoMj2uIA)
 
 ## Performance
 
@@ -48,6 +49,7 @@ Some interesting videos and presentations in no particular order.
 * [Convergence of real-time analytics & data-driven applications : 27m08s](https://www.youtube.com/watch?v=i6RY9GFdlg4)
 * [Algorithms I - PlayList](https://www.youtube.com/watch?v=YIFWCpquoS8&list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q)
 * [Byrne Tube - PlayList](http://www.byrnetube.com/)
+* [gRPC 101 for Java Developers : 55m16s](https://www.youtube.com/watch?v=DU-q5kOf2Rc)
 
 ## MicroServices, Event Sourcing and Streaming
 * [Developing MicroServices with Aggregates - Chris Richardson : 1h09m37s](https://www.infoq.com/presentations/aggregates-modular-microservices)
@@ -56,15 +58,19 @@ Some interesting videos and presentations in no particular order.
 * [MicroServices - Jonas Boner : 18m39s](https://www.youtube.com/watch?v=9gLrCPVrXo4)
 * [The Many Meanings of Event-Driven Architecture - Martin Fowler : 50m05s](https://www.youtube.com/watch?v=STKCRSUsyP0)
 * [Turning the database inside out with Apache Samza : 47m42s](https://www.youtube.com/watch?v=fU9hR3kiOK0)
+* [The End Of Polling : 25m49s](https://www.youtube.com/watch?v=xclRxDb75l0)
 
 ## Functional Programming
 * [Introduction to Haskell : 1h16m47s](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * [Functional Programming Design Patterns : 1h05m43s](https://www.youtube.com/watch?v=E8I19uA-wGY)
 * [Functional Principles in React : 27m57s](https://www.youtube.com/watch?v=1uRC3hmKQnM)
 * [Functional Programming is Terrible : 34m31s](https://www.youtube.com/watch?v=hzf3hTUKk8U)
-* [Functional web applications with Spring and Kotlin : 56m24s](https://vimeo.com/221399691)
+* [Functional Web Applications with Spring and Kotlin : 56m24s](https://vimeo.com/221399691)
 
 ## Rich Hickey
 * [Simple Made Easy : 1h1m26s](https://www.infoq.com/presentations/Simple-Made-Easy)
 * [The Value of Values : 31m43s](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 * [Are We There Yet : 1h10m04s](https://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
+
+## Distributed Systems
+* [An Introduction to Apache Kafka : 49m47s](https://www.youtube.com/watch?v=UEg40Te8pnE)
