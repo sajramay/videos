@@ -50,6 +50,7 @@ Some interesting videos and presentations in no particular order.
 * [Algorithms I - PlayList](https://www.youtube.com/watch?v=YIFWCpquoS8&list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q)
 * [Byrne Tube - PlayList](http://www.byrnetube.com/)
 * [gRPC 101 for Java Developers : 55m16s](https://www.youtube.com/watch?v=DU-q5kOf2Rc)
+* [Continuous Delivery In Agile - Jez Humble : 1h10m26s](https://vimeo.com/229954108)
 
 ## MicroServices, Event Sourcing and Streaming
 * [Developing MicroServices with Aggregates - Chris Richardson : 1h09m37s](https://www.infoq.com/presentations/aggregates-modular-microservices)
@@ -66,6 +67,7 @@ Some interesting videos and presentations in no particular order.
 * [Functional Principles in React : 27m57s](https://www.youtube.com/watch?v=1uRC3hmKQnM)
 * [Functional Programming is Terrible : 34m31s](https://www.youtube.com/watch?v=hzf3hTUKk8U)
 * [Functional Web Applications with Spring and Kotlin : 56m24s](https://vimeo.com/221399691)
+* [Category Theory by Barosz Milewski](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 ## Rich Hickey
 * [Simple Made Easy : 1h1m26s](https://www.infoq.com/presentations/Simple-Made-Easy)
@@ -74,3 +76,6 @@ Some interesting videos and presentations in no particular order.
 
 ## Distributed Systems
 * [An Introduction to Apache Kafka : 49m47s](https://www.youtube.com/watch?v=UEg40Te8pnE)
+
+## Web
+* [Angular and RxJS : 47m20s](https://www.youtube.com/watch?v=aYurQaN3RoE)
