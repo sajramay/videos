@@ -17,11 +17,14 @@ Some interesting videos and presentations in no particular order.
 * [Go Concurrency Patterns - Google IO 2012](https://www.youtube.com/watch?v=f6kdp27TYZs)
 * [Kotlin 102 - Beyond the basics : 46m23s](https://www.youtube.com/watch?v=a7QpoMj2uIA)
 
-## Performance
+## Performance & JVM/JIT
 
-* [Adventures with Concurrent Programming : 1h02m01s](https://www.youtube.com/watch?v=rKMTsJxYK30)
+* [Adventures with Concurrent Programming : 51m34s](https://www.youtube.com/watch?v=929OrIvbW18)
 * [Deep Dive Performance : 3h00m29s](https://www.youtube.com/watch?v=1Uc3M9YK5Tg)
 * [How Not to Measure Latency : 42m56s](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
+* [A JVM Does That : 40m57s](https://www.youtube.com/watch?v=-vizTDSz8NU)
+* [A Crash Course into Modern Hardware : 59m21s](https://www.youtube.com/watch?v=OFgxAFdxYAQ)
+* [Bits of Advice for the VM Writer : 1h15m08s](https://www.youtube.com/watch?v=Hqw57GJSrac)
 
 ## SkillsMatter
 
