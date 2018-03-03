@@ -54,6 +54,7 @@ Some interesting videos and presentations in no particular order.
 * [Byrne Tube - PlayList](http://www.byrnetube.com/)
 * [gRPC 101 for Java Developers : 55m16s](https://www.youtube.com/watch?v=DU-q5kOf2Rc)
 * [Continuous Delivery In Agile - Jez Humble : 1h10m26s](https://vimeo.com/229954108)
+* [Overview and Core Values of Domain Driven Design - Part 1/5](https://www.youtube.com/watch?v=Z0zpSB85XGs)
 
 ## MicroServices, Event Sourcing and Streaming
 * [Developing MicroServices with Aggregates - Chris Richardson : 1h09m37s](https://www.infoq.com/presentations/aggregates-modular-microservices)
@@ -62,6 +63,8 @@ Some interesting videos and presentations in no particular order.
 * [MicroServices - Jonas Boner : 18m39s](https://www.youtube.com/watch?v=9gLrCPVrXo4)
 * [The Many Meanings of Event-Driven Architecture - Martin Fowler : 50m05s](https://www.youtube.com/watch?v=STKCRSUsyP0)
 * [Turning the database inside out with Apache Samza : 47m42s](https://www.youtube.com/watch?v=fU9hR3kiOK0)
+* [Refactoring to a System of Systems - Oliver Gierke : 1h12m36s](https://www.youtube.com/watch?v=VWefNT8Lb74)
+* [Spinnaker (Google Cloud Next 2017) : 46m02s](https://www.youtube.com/watch?v=05EZx3MBHSY)
 
 ## Functional Programming
 * [Introduction to Haskell : 1h16m47s](https://www.youtube.com/watch?v=02_H3LjqMr8)
@@ -79,6 +82,7 @@ Some interesting videos and presentations in no particular order.
 ## Distributed Systems
 * [An Introduction to Apache Kafka : 49m47s](https://www.youtube.com/watch?v=UEg40Te8pnE)
 * [The Computer Science Behind a Modern Distributed Data Store : 51m43s](https://www.youtube.com/watch?v=B0HKpoVKqX0)
+* [Data Stream Processing Concepts and Implementations : 45m29s](https://www.youtube.com/watch?v=5inVCagXc2A)
 
 ## Web
 * [Angular and RxJS : 47m20s](https://www.youtube.com/watch?v=aYurQaN3RoE)
