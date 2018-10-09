@@ -25,6 +25,7 @@ Some interesting videos and presentations in no particular order.
 * [A JVM Does That : 40m57s](https://www.youtube.com/watch?v=-vizTDSz8NU)
 * [A Crash Course into Modern Hardware : 59m21s](https://www.youtube.com/watch?v=OFgxAFdxYAQ)
 * [Bits of Advice for the VM Writer : 1h15m08s](https://www.youtube.com/watch?v=Hqw57GJSrac)
+* [The Java Memory Model](https://www.youtube.com/watch?v=WTVooKLLVT8)
 
 ## SkillsMatter
 
@@ -65,6 +66,7 @@ Some interesting videos and presentations in no particular order.
 * [Turning the database inside out with Apache Samza : 47m42s](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 * [Refactoring to a System of Systems - Oliver Gierke : 1h12m36s](https://www.youtube.com/watch?v=VWefNT8Lb74)
 * [Spinnaker (Google Cloud Next 2017) : 46m02s](https://www.youtube.com/watch?v=05EZx3MBHSY)
+* [Designing Event First Microservices : 44m59s](https://www.youtube.com/watch?v=iDey1GoAJy0)
 
 ## Functional Programming
 * [Introduction to Haskell : 1h16m47s](https://www.youtube.com/watch?v=02_H3LjqMr8)
