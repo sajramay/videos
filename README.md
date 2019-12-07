@@ -67,6 +67,7 @@ Some interesting videos and presentations in no particular order.
 * [Refactoring to a System of Systems - Oliver Gierke : 1h12m36s](https://www.youtube.com/watch?v=VWefNT8Lb74)
 * [Spinnaker (Google Cloud Next 2017) : 46m02s](https://www.youtube.com/watch?v=05EZx3MBHSY)
 * [Designing Event First Microservices : 44m59s](https://www.youtube.com/watch?v=iDey1GoAJy0)
+* [Complex event flows in distributed systems : 46m35s](https://www.youtube.com/watch?v=r3f9nUw5I0g)
 
 ## Functional Programming
 * [Introduction to Haskell : 1h16m47s](https://www.youtube.com/watch?v=02_H3LjqMr8)
