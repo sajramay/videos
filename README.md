@@ -38,6 +38,7 @@ Some interesting videos and presentations in no particular order.
 * [New Concurrency Models on the JVM : 1h03m01s](https://www.youtube.com/watch?v=EMv_8dxSqdE)
 * [Combining Collections and Concurrency : 50m09s](https://www.youtube.com/watch?v=1NeZys7KEvc)
 * [The Myth of the Magical Messaging Fabric : 50m51s](https://www.youtube.com/watch?v=Ie3--CSpCGs)
+* [The Rise of Loom and the Revolution of Reactive Programming : 2h09m54s](https://www.youtube.com/watch?v=SJeAb-XEIe8)
 
 ## LightBend
 
