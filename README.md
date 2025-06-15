@@ -27,22 +27,13 @@ Some interesting videos and presentations in no particular order.
 * [Bits of Advice for the VM Writer : 1h15m08s](https://www.youtube.com/watch?v=Hqw57GJSrac)
 * [The Java Memory Model](https://www.youtube.com/watch?v=WTVooKLLVT8)
 
-## SkillsMatter
-
-* [Lock Free Queue Evolution II: Over the Edge : 1h12m21s](https://skillsmatter.com/skillscasts/5318-lock-free-queue-evolution-ii-over-the-edge)
-* [Beyond Queues : 1h13m21s](https://skillsmatter.com/skillscasts/7783-beyond-queues-novel-concurrent-message-passing-techniques)
-
 ## Concurrency
 
-* [Concurrency is not Parallelism : 31m21s](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [New Concurrency Models on the JVM : 1h03m01s](https://www.youtube.com/watch?v=EMv_8dxSqdE)
-* [Combining Collections and Concurrency : 50m09s](https://www.youtube.com/watch?v=1NeZys7KEvc)
 * [The Myth of the Magical Messaging Fabric : 50m51s](https://www.youtube.com/watch?v=Ie3--CSpCGs)
-* [The Rise of Loom and the Revolution of Reactive Programming : 2h09m54s](https://www.youtube.com/watch?v=SJeAb-XEIe8)
 
 ## LightBend
 
-* [Life Beyond the Illusion of the Present : 1h12m20s](https://www.youtube.com/watch?v=4OWwZa92qWw)
 * [Without Resilience Nothing Else Matters : 59m30s](https://www.youtube.com/watch?v=NjPVJ7ZKLnY)
 
 ## Other
@@ -52,15 +43,12 @@ Some interesting videos and presentations in no particular order.
 * [Six Principles for Building Fault Tolerant MicroServices on the JVM : 50m26s](https://www.youtube.com/watch?v=dKWNZnuZhd0)
 * [Jepsen 7: Anna Concurrenina by Kyle Kingsbury : 53m06s](https://www.youtube.com/watch?v=eSaFVX4izsQ)
 * [Convergence of real-time analytics & data-driven applications : 27m08s](https://www.youtube.com/watch?v=i6RY9GFdlg4)
-* [Algorithms I - PlayList](https://www.youtube.com/watch?v=YIFWCpquoS8&list=PLUX6FBiUa2g4YWs6HkkCpXL6ru02i7y3Q)
 * [Byrne Tube - PlayList](http://www.byrnetube.com/)
 * [gRPC 101 for Java Developers : 55m16s](https://www.youtube.com/watch?v=DU-q5kOf2Rc)
-* [Continuous Delivery In Agile - Jez Humble : 1h10m26s](https://vimeo.com/229954108)
 * [Overview and Core Values of Domain Driven Design - Part 1/5](https://www.youtube.com/watch?v=Z0zpSB85XGs)
 
 ## MicroServices, Event Sourcing and Streaming
 * [Developing MicroServices with Aggregates - Chris Richardson : 1h09m37s](https://www.infoq.com/presentations/aggregates-modular-microservices)
-* [Handling Eventual Consistency in JVM MicroServices with Event Sourcing : 1h07m13s](https://www.youtube.com/watch?v=53DVkaW5Fb0)
 * [Principles of MicroServices - Sam Newman : 56m13s](https://www.youtube.com/watch?v=PFQnNFe27kU)
 * [MicroServices - Jonas Boner : 18m39s](https://www.youtube.com/watch?v=9gLrCPVrXo4)
 * [The Many Meanings of Event-Driven Architecture - Martin Fowler : 50m05s](https://www.youtube.com/watch?v=STKCRSUsyP0)
@@ -69,14 +57,6 @@ Some interesting videos and presentations in no particular order.
 * [Spinnaker (Google Cloud Next 2017) : 46m02s](https://www.youtube.com/watch?v=05EZx3MBHSY)
 * [Designing Event First Microservices : 44m59s](https://www.youtube.com/watch?v=iDey1GoAJy0)
 * [Complex event flows in distributed systems : 46m35s](https://www.youtube.com/watch?v=r3f9nUw5I0g)
-
-## Functional Programming
-* [Introduction to Haskell : 1h16m47s](https://www.youtube.com/watch?v=02_H3LjqMr8)
-* [Functional Programming Design Patterns : 1h05m43s](https://www.youtube.com/watch?v=E8I19uA-wGY)
-* [Functional Principles in React : 27m57s](https://www.youtube.com/watch?v=1uRC3hmKQnM)
-* [Functional Programming is Terrible : 34m31s](https://www.youtube.com/watch?v=hzf3hTUKk8U)
-* [Functional Web Applications with Spring and Kotlin : 56m24s](https://vimeo.com/221399691)
-* [Category Theory by Barosz Milewski](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 ## Rich Hickey
 * [Simple Made Easy : 1h1m26s](https://www.infoq.com/presentations/Simple-Made-Easy)
@@ -89,5 +69,8 @@ Some interesting videos and presentations in no particular order.
 * [Data Stream Processing Concepts and Implementations : 45m29s](https://www.youtube.com/watch?v=5inVCagXc2A)
 
 ## Web
-* [Angular and RxJS : 47m20s](https://www.youtube.com/watch?v=aYurQaN3RoE)
 * [The End Of Polling : 25m49s](https://www.youtube.com/watch?v=xclRxDb75l0)
+
+## Spring
+* [Spring Security Architecture Principles by Daniel Garnier-Moiroux @ Spring I/O 2024 : 48m24s](https://www.youtube.com/watch?v=HyoLl3VcRFY)
+* [Hexagonal Architecture in Practice, Live Coding That Will Make Your Applications More Sustainable : 47m13s](https://www.youtube.com/watch?v=3siPsq17NAU)
